@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SHiELDV4205
+- 👀 I’m interested in opsec
+- 🌱 I’m currently learning opsec
+- 💞️ I’m looking to collaborate on opsec
